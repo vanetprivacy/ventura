@@ -1,0 +1,9 @@
+body { background-color: black; } 
+
+#dat-gui-container{
+	width:100%;
+	position:fixed;
+}
+canvas {
+	border:1px solid white;
+}
